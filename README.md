@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Abubakar Ahmad **, a backend engineer specializing in **API architecture and backend systems** using **Node.js** and **Express.js**.  
+I'm **Abubakar Ahmad**, a backend engineer specializing in **API architecture and backend systems** using **Node.js** and **Express.js**.  
 My work focuses on designing **secure**, **scalable**, and **production-ready APIs** that serve as reliable backbones for modern applications.
 
 💡 Currently advancing expertise in **authentication**, **authorization**, and **distributed token management** within microservice environments.  
