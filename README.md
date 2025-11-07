@@ -1,13 +1,14 @@
 # Hi there 👋
 
-I'm **Abubakar Ahmad Yar’adua**, a backend developer focused on building **secure, production-grade systems** using the **MERN stack**.  
-I’m passionate about **data infrastructure**, **API design**, and solving **data access gaps** across Africa.
+I'm **Abubakar Ahmad **, a backend engineer specializing in **API architecture and backend systems** using **Node.js** and **Express.js**.  
+My work focuses on designing **secure**, **scalable**, and **production-ready APIs** that serve as reliable backbones for modern applications.
 
-💡 Currently researching **data deserts** and developing systems that make reliable information accessible.  
-🧠 I love designing architectures that scale and writing code that connects backend logic to real user outcomes.  
-🎯 Goal: Build a data infrastructure company bridging Nigeria’s information gaps.  
-⚙️ Motto: Think in systems. Build what lasts.  
-📩 Reach me at **your-email-here**
+💡 Currently advancing expertise in **authentication**, **authorization**, and **distributed token management** within microservice environments.  
+🧠 I emphasize clean architecture, maintainability, and data consistency across backend systems.  
+🎯 Goal: Build resilient API infrastructures that support large-scale, data-driven solutions.  
+⚙️ Motto: Design intentionally. Build for longevity.  
+📩 Reach me at **abubakarahmad4900@gmail.com**
+
 
 ---
 
