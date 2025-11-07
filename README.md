@@ -31,7 +31,7 @@ I’m passionate about **data infrastructure**, **API design**, and solving **da
 ---
 
 ### 📊 GitHub Statistics  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayaradua&layout=compact&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue)
 
