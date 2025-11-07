@@ -7,14 +7,14 @@ I’m passionate about **data infrastructure**, **API design**, and solving **da
 🧠 I love designing architectures that scale and writing code that connects backend logic to real user outcomes.  
 🎯 Goal: Build a data infrastructure company bridging Nigeria’s information gaps.  
 ⚙️ Motto: Think in systems. Build what lasts.  
-📩 Reach me at **your-email-here**  
+📩 Reach me at **your-email-here**
 
 ---
 
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](your-x-url)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayaradua)
 
 ---
 
@@ -31,20 +31,20 @@ I’m passionate about **data infrastructure**, **API design**, and solving **da
 ---
 
 ### 📊 GitHub Statistics  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayaradua&layout=compact&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayaradua&layout=compact&theme=github_dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayaradua&show_icons=true&theme=github_dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayaradua&theme=github-dark-blue)
 
 ---
 
 ### 📌 Pinned Projects  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=backend-auth-system&theme=github_dark)](https://github.com/your-github-username/backend-auth-system)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=refresh-token-handler&theme=github_dark)](https://github.com/your-github-username/refresh-token-handler)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=mern-scholarship-platform&theme=github_dark)](https://github.com/your-github-username/mern-scholarship-platform)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=device-session-security&theme=github_dark)](https://github.com/your-github-username/device-session-security)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aayaradua&repo=backend-auth-system&theme=github_dark)](https://github.com/aayaradua/backend-auth-system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aayaradua&repo=refresh-token-handler&theme=github_dark)](https://github.com/aayaradua/refresh-token-handler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aayaradua&repo=mern-scholarship-platform&theme=github_dark)](https://github.com/aayaradua/mern-scholarship-platform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aayaradua&repo=device-session-security&theme=github_dark)](https://github.com/aayaradua/device-session-security)
 
 ---
 
 ### 📈 Contributions  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayaradua&theme=github-dark)
